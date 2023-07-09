@@ -8,18 +8,19 @@
 - 발표자는 발표 전날(토) 23시 59분까지 PR을 올려야 합니다.
 - 발표자는 불참 시 최소 1주일 전에 말해야합니다.
 - 토의내용 및 진행하며 파생된 궁금증은 스터디장(juyeong-repo)이 정리하여 issue 생성 or 커밋합니다.
-[목차]
-| Chapter       | 정리 자료    | 발표자
-:--------------|:-----:|:-----
-| 03. 아키텍처      |[정리 자료 보러가기](https://github.com/Learning-Is-Vital-In-Development/23-6-RealMySQL/tree/main/ch04)|
-| 04. 아키텍처      |[정리 자료 보러가기](https://github.com/Learning-Is-Vital-In-Development/23-6-RealMySQL/tree/main/ch04)|
-| 05. 트랜잭션과 잠금  |[정리 자료 보러가기](https://github.com/Learning-Is-Vital-In-Development/23-6-RealMySQL/tree/main/ch05)|
-| 06. 인덱스       |[정리 자료 보러가기](https://github.com/Learning-Is-Vital-In-Development/23-6-RealMySQL/tree/main/ch08)|
-| 07. 옵티마이저와 힌트 |[정리 자료 보러가기](https://github.com/Learning-Is-Vital-In-Development/23-6-RealMySQL/tree/main/ch09)|
-| 08. 실행계획      |[정리 자료 보러가기](https://github.com/Learning-Is-Vital-In-Development/23-6-RealMySQL/tree/main/ch10)|
-| 09. 실행계획      |[정리 자료 보러가기](https://github.com/Learning-Is-Vital-In-Development/23-6-RealMySQL/tree/main/ch10)|
-| 10. 실행계획      |[정리 자료 보러가기](https://github.com/Learning-Is-Vital-In-Development/23-6-RealMySQL/tree/main/ch10)|
 
+|week|chapter|발표자|발표내용|
+|---|---|---|---|
+|1|chap.3|내용 3|내용 4|
+|2|chap.4|내용 7|내용 8|
+|3|chap.5|내용 11|내용 12|
+|4|chap.6|내용 3|내용 4|
+|5|chap.7|내용 3|내용 4|
+|6|chap.8|내용 3|내용 4|
+|7|chap.9|내용 3|내용 4|
+|8|chap.10|내용 3|내용 4|
+|9|chap.|내용 3|내용 4|
+|10|chap.|내용 3|내용 4|
 
 
 - 불편사항은 스터디장에게 개인연락 주시면 감사하겠습니다 ☺️
