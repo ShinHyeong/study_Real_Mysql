@@ -8,7 +8,7 @@
 [발표]
 - 발표자는 발표 전날(토) 23시 59분까지 PR을 올려야 합니다.
 - 발표자는 불참 시 최소 1주일 전에 말해야합니다.
-- 토의내용 및 진행하며 파생된 궁금증은 스터디장(juyeong-repo)이 정리하여 issue 생성 or 커밋합니다.
+- 토의내용 및 진행하며 파생된 궁금증은 스터디장(juyeong-repo)이 정리하여 issue 생성 or 커밋합니다. [링크]([http://www.google.co.kr](https://github.com/juyeong-repo/Real_Mysql/issues?q=is%3Aissue+is%3Aclosed)).
 
 |week|chapter|발표자|발표내용|
 |---|---|---|---|
@@ -25,5 +25,5 @@
 
 
 - 불편사항은 스터디장에게 개인연락 주시면 감사하겠습니다 ☺️
-
+https://github.com/juyeong-repo/Real_Mysql/issues?q=is%3Aissue+is%3Aclosed
 
