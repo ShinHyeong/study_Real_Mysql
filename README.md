@@ -10,8 +10,6 @@
 - 발표자는 불참 시 최소 1주일 전에 말해야합니다.
 - 토의내용 및 진행하며 파생된 궁금증은 [이슈](https://github.com/juyeong-repo/Real_Mysql/issues?q=is%3Aissue+is%3Aclosed)에 정리합니다.
 
-1
-[주소에 대한 설명](http://www.google.co.kr).
 |week|chapter|발표자|발표내용|
 |---|---|---|---|
 |1|chap.3|내용 3|내용 4|
