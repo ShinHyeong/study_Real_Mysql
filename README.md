@@ -25,5 +25,4 @@
 
 
 - 불편사항은 스터디장에게 개인연락 주시면 감사하겠습니다 ☺️
-https://github.com/juyeong-repo/Real_Mysql/issues?q=is%3Aissue+is%3Aclosed
 

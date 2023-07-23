@@ -1,11 +1,11 @@
 ## 4. 아키텍처
 - MySQL 서버는 **엔진과 스토리지 엔진**으로 구분된다.
-![mysql 전체구조](./images/mysql_structure.png)
+![mysql 전체구조](https://raw.githubusercontent.com/programmer-sjk/real-mysql-practice/main/images/mysql_structure.png)
 - MySQL 엔진은 클라이언트의 접속 및 쿼리 요청을 처리하는 `커넥션 핸들러`, 최적화된 실행을 위한 `옵티마이저로` 구성된다.
 - MySQL 엔진이 SQL 문장을 분석하고 최적화하는 두뇌라면 실제 데이터를 읽어오는 역할은 `스토리지 엔진`이 한다.
 
 #### 4.1.2 MySQL 스레딩 구조
-![mysql 스레딩구조](images/MySQL_%EC%8A%A4%EB%A0%88%EB%94%A9%EA%B5%AC%EC%A1%B0.png)
+![mysql 스레딩구조](https://raw.githubusercontent.com/programmer-sjk/real-mysql-practice/main/images/MySQL_%EC%8A%A4%EB%A0%88%EB%94%A9%EA%B5%AC%EC%A1%B0.png)
 - MySQL 서버는 스레드 기반으로 동작하며 `포그라운드`와 `백그라운드` 스레드로 구분된다.
 - 포그라운드 스레드는 최소 접속된 클라이언트 수만큼 존재하며 각 사용자가 요청하는 쿼리를 처리한다.
 - 포그라운드 스레드는 데이터를 MySQL의 데이터 버퍼나 캐시로부터 가져오며 버퍼나 캐시에 없는 경우 스토리지 엔진에
@@ -42,7 +42,7 @@
 
 #### 4.1.6 쿼리 실행구조
 - 쿼리를 실행하는 관점에서 MySQL 구조는 아래와 같이 나눌 수 있다.
-![쿼리 실행구조](./images/%EC%BF%BC%EB%A6%AC%EC%8B%A4%ED%96%89%EA%B5%AC%EC%A1%B0.png)
+![쿼리 실행구조](https://raw.githubusercontent.com/programmer-sjk/real-mysql-practice/main/images/%EC%BF%BC%EB%A6%AC%EC%8B%A4%ED%96%89%EA%B5%AC%EC%A1%B0.png)
 - **쿼리파서** (쿼리 문장을 분해해 트리 형태의 구조로 만들어내는 작업, 문법 오류는 이과정에서 발견됨)
 - **전처리기** (각 테이블의 존재여부 및 권한 확인)
 - **옵티마이저** (들어온 쿼리를 어떻게 가장 빠르게 처리할지를 결정하는 역할)
@@ -56,7 +56,7 @@
 - InnoDB는 MySQL에서 사용하는 스토리지 엔진 중 유일하게 레코드 기반의 잠금을 제공하며 그 때문에 높은 동시성 처리가
 가능하고 안정적이며 성능이 뛰어나다.
 - 아래 그림은 InnoDB 아키텍처를 간단히 보여주는데 각 특징들을 하나씩 살펴보자
-![InnoDB 구조](./images/innodb_구조.png)
+![InnoDB 구조](https://raw.githubusercontent.com/programmer-sjk/real-mysql-practice/main/images/innodb_%EA%B5%AC%EC%A1%B0.png)
 
 #### 4.2.1 프라이머리 키에 의한 클러스터링
 - InnoDB의 모든 테이블은 기본적으로 프라이머리 키를 기준으로 클러스터링 되어 저장된다.
