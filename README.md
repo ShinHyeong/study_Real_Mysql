@@ -12,9 +12,9 @@
 
 |week|chapter|발표자|발표내용|
 |---|---|---|---|
-|1|chap.3|[BO-SEO](https://github.com/BO-SEO)|내용 4|
-|2|chap.4|[juyeong-repo](https://github.com/juyeong-repo)|내용 8|
-|3|chap.5|[ShinHyeong](https://github.com/ShinHyeong)|내용 12|
+|1|chap.3|[BO-SEO](https://github.com/BO-SEO)|[사용자 및 권한](https://github.com/juyeong-repo/Real_Mysql/blob/main/chap03/Real%20MySQL%208.0__%20chap03.pdf)|
+|2|chap.4|[juyeong-repo](https://github.com/juyeong-repo)|[아키텍쳐](https://github.com/juyeong-repo/Real_Mysql/blob/main/chap04/chap04.%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.md)|
+|3|chap.5|[ShinHyeong](https://github.com/ShinHyeong)|[트랜잭션과 잠금](https://s2nyeong.notion.site/05-14324225a8bd4597ba8e044a4035c48a)|
 |4|chap.6|내용 3|내용 4|
 |5|chap.7|내용 3|내용 4|
 |6|chap.8|, [ShinHyeong](https://github.com/ShinHyeong)|내용 4|
