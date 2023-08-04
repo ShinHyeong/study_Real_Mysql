@@ -15,13 +15,10 @@
 |1|chap.3|[BO-SEO](https://github.com/BO-SEO)|[사용자 및 권한](https://github.com/juyeong-repo/Real_Mysql/blob/main/chap03/Real%20MySQL%208.0__%20chap03.pdf)|
 |2|chap.4|[juyeong-repo](https://github.com/juyeong-repo)|[아키텍쳐](https://github.com/juyeong-repo/Real_Mysql/blob/main/chap04/chap04.%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.md)|
 |3|chap.5|[ShinHyeong](https://github.com/ShinHyeong)|[트랜잭션과 잠금](https://s2nyeong.notion.site/05-14324225a8bd4597ba8e044a4035c48a)|
-|4|chap.6|내용 3|내용 4|
-|5|chap.7|내용 3|내용 4|
-|6|chap.8|, [ShinHyeong](https://github.com/ShinHyeong)|내용 4|
-|7|chap.9|내용 3|내용 4|
-|8|chap.10|내용 3|내용 4|
-|9|chap.|내용 3|내용 4|
-|10|chap.| , [juyeong-repo](https://github.com/juyeong-repo)|내용 4|
+|4|chap.6,7|그린|내용 4|
+|5|chap.8| 발짜개, [ShinHyeong](https://github.com/ShinHyeong)|내용 4|
+|6|chap.9|버터, 그린|내용 4|
+|7|chap.10| 버터 , [juyeong-repo](https://github.com/juyeong-repo)|내용 4|
 
 
 - 불편사항은 스터디장에게 개인연락 주시면 감사하겠습니다 ☺️
