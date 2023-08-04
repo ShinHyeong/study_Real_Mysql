@@ -12,16 +12,16 @@
 
 |week|chapter|발표자|발표내용|
 |---|---|---|---|
-|1|chap.3|내용 3|내용 4|
-|2|chap.4|내용 7|내용 8|
-|3|chap.5|내용 11|내용 12|
+|1|chap.3|[BO-SEO](https://github.com/BO-SEO)|내용 4|
+|2|chap.4|[juyeong-repo](https://github.com/juyeong-repo)|내용 8|
+|3|chap.5|[ShinHyeong](https://github.com/ShinHyeong)|내용 12|
 |4|chap.6|내용 3|내용 4|
 |5|chap.7|내용 3|내용 4|
-|6|chap.8|내용 3|내용 4|
+|6|chap.8|, [ShinHyeong](https://github.com/ShinHyeong)|내용 4|
 |7|chap.9|내용 3|내용 4|
 |8|chap.10|내용 3|내용 4|
 |9|chap.|내용 3|내용 4|
-|10|chap.|내용 3|내용 4|
+|10|chap.| , [juyeong-repo](https://github.com/juyeong-repo)|내용 4|
 
 
 - 불편사항은 스터디장에게 개인연락 주시면 감사하겠습니다 ☺️
