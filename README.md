@@ -14,7 +14,7 @@
 |---|---|---|---|
 |1|chap.3|[BO-SEO](https://github.com/BO-SEO)|[사용자 및 권한](https://github.com/juyeong-repo/Real_Mysql/blob/main/chap03/Real%20MySQL%208.0__%20chap03.pdf)|
 |2|chap.4|[juyeong-repo](https://github.com/juyeong-repo)|[아키텍쳐](https://github.com/juyeong-repo/Real_Mysql/blob/main/chap04/chap04.%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.md)|
-|3|chap.5|[ShinHyeong](https://github.com/ShinHyeong)|[트랜잭션과 잠금](https://s2nyeong.notion.site/05-14324225a8bd4597ba8e044a4035c48a)|
+|3|chap.5|[ShinHyeong](https://github.com/ShinHyeong)|[트랜잭션과 잠금](https://github.com/juyeong-repo/Real_Mysql/commit/9548cb729b69f2786dc22a1f2fc270d4ddddb3d1)|
 |4|chap.6,7|그린|6,7|
 |5|chap.8| 발짜개, [ShinHyeong](https://github.com/ShinHyeong)|8|
 |6|chap.9|버터, 그린|9|
