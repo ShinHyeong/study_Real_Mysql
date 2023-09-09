@@ -18,7 +18,7 @@
 |4|chap.6,7|[Jiwon9090](https://github.com/Jiwon9090)|[데이터 압축](https://github.com/juyeong-repo/Real_Mysql/blob/main/chap06/%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%20%E1%84%8B%E1%85%A1%E1%86%B8%E1%84%8E%E1%85%AE%E1%86%A8.pdf), [데이터 암호화](https://github.com/juyeong-repo/Real_Mysql/blob/main/chap07/7.%20%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%20%E1%84%8B%E1%85%A1%E1%86%B7%E1%84%92%E1%85%A9%E1%84%92%E1%85%AA.pdf)|
 |5|chap.8| [thdud1744](https://github.com/thdud1744), [ShinHyeong](https://github.com/ShinHyeong)|[인덱스(1)](https://github.com/juyeong-repo/Real_Mysql/blob/main/chap08-1/08_index.md) ,[인덱스(2)](https://github.com/juyeong-repo/Real_Mysql/blob/main/chap08-2/chap08-2.md)|
 |6|chap.9|[HaedeunH](https://github.com/HaedeunH), [Jiwon9090](https://github.com/Jiwon9090)|[옵티마이저와 힌트(1)](https://github.com/juyeong-repo/Real_Mysql/blob/main/chap09-1/%EC%98%B5%ED%8B%B0%EB%A7%88%EC%9D%B4%EC%A0%80%20%EA%B0%9C%EC%9A%94%20%EB%B0%8F%20%EA%B8%B0%EB%B3%B8%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%B2%98%EB%A6%AC.txt), [옵티마이저와 힌트(2)](https://github.com/juyeong-repo/Real_Mysql/tree/main/chap09-2)|
-|7|chap.10|[HaedeunH](https://github.com/HaedeunH) , [juyeong-repo](https://github.com/juyeong-repo)|10|
+|7|chap.10|[HaedeunH](https://github.com/HaedeunH) , [juyeong-repo](https://github.com/juyeong-repo)|통계정보 및 실행계획 확인(https://github.com/juyeong-repo/Real_Mysql/blob/main/chap10-1/%ED%86%B5%EA%B3%84%EC%A0%95%EB%B3%B4%20%EB%B0%8F%20%EC%8B%A4%ED%96%89%EA%B3%84%ED%9A%8D%20%ED%99%95%EC%9D%B8.md)|
 
 
 - 불편사항은 스터디장에게 개인연락 주시면 감사하겠습니다 ☺️
